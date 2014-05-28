@@ -20,5 +20,17 @@
   "bugs": {
     "url": "https://github.com/antham/charset-converter/issues"
   },
-  "homepage": "https://github.com/antham/charset-converter"
+  "homepage": "https://github.com/antham/charset-converter",
+  "devDependencies": {
+    "mocha": "~1.20.0",
+    "chai": "~1.9.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-mocha-test": "~0.10.2"
+  },
+  "dependencies": {
+    "iconv-lite": "~0.2.11",
+    "node-icu-charset-detector": "0.0.7",
+    "encoding": "~0.1.7",
+    "grunt": "~0.4.5"
+  }
 }
