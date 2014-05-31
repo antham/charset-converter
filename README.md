@@ -1,4 +1,4 @@
-Charset-converter
+Charset-converter ![](https://travis-ci.org/antham/charset-converter.svg?branch=master)
 =================
 
 Check encoding in xml/html page using request header, meta and finally using detection charset library and convert to utf-8
