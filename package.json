@@ -1,6 +1,6 @@
 {
   "name": "charset-converter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Detect charset document and convert to utf8",
   "main": "index.js",
   "scripts": {
